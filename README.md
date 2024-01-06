@@ -5,15 +5,6 @@ This is the final project for ENSF480, It is an airline booking system with a fu
 1. Once you clone the repository, in src/controllers/DatabaseConnectionManager.java, adjust the SQL login info. Then, run the SQL database in MySQL
 2. Simply run the program by running src/main.java, to use the GUI interaction to browse flights, view/cancel flights, and view payments. Sample screenshots are below!
 
-## Group 26 Team Members
-Zach Pelkey, 30156783
-
-Hareem Khan, 30140959
-
-Houssem Zaggar, 30163978
-
-Vishnu Dhanda, 30145576
-
 ## Application Screenshots
 Starting up the application after running src/main.java
 ![screenshot](https://i.postimg.cc/4yHd2Gcb/Welcome.png)
